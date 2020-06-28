@@ -1,0 +1,12 @@
+{
+  "name": "EcoAppli",
+  "displayName": "EcoAppli",
+  "expo": {
+    "name": "EcoAppli",
+    "slug": "EcoAppli",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
