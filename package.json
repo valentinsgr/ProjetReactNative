@@ -19,7 +19,7 @@
     "firebase": "^7.15.5",
     "google-maps-react": "^2.0.6",
     "link": "^0.1.5",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
